@@ -1,0 +1,21 @@
+// Variables
+// *------------------------------------------------*
+$color-white: #ffffff;
+$color-black: #000000;
+$color-yellow: #FFE81F;
+$color-light-yellow: #FFFFE0;
+
+$layout-border-radius: 6px;
+
+// Functions
+// *------------------------------------------------*
+@function get_invert($invert){
+    @if $invert == "true"{
+      @return 1
+    }
+    @return 0
+  }
+  
+  @function get_brightness($amount){
+    @return unquote($amount)
+  }

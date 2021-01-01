@@ -1,0 +1,12 @@
+@import 'variables';
+
+// Navigation
+// *------------------------------------------------*
+.nav-pills>li>a:hover {
+  color: $color-yellow;
+  border-bottom: 0;
+  background-color: transparent;
+}
+.navigation-toggle {
+  padding-left: 17px;
+}

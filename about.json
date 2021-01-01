@@ -1,0 +1,33 @@
+{
+  "name": "discourse-grogu-theme",
+  "about_url": null,
+  "license_url": "https://github.com/MeghnaAJ/discourse-grogu-theme/blob/master/LICENSE",
+  "authors": null,
+  "assets": {
+    "head": "assets/galaxy-head.jpg",
+    "bg": "assets/background-stars.jpg",
+    "ssp-regular":"assets/SourceSansPro-Regular.ttf",
+    "ssp-italic":"assets/SourceSansPro-Italic.ttf",
+    "ssp-light":"assets/SourceSansPro-Light.ttf",
+    "ssp-light-italic":"assets/SourceSansPro-LightItalic.ttf",
+    "ssp-semibold":"assets/SourceSansPro-SemiBold.ttf",
+    "ssp-semibold-italic":"assets/SourceSansPro-SemiBoldItalic.ttf",
+    "ssp-bold":"assets/SourceSansPro-Bold.ttf",
+    "ssp-bold-italic":"assets/SourceSansPro-BoldItalic.ttf",
+    "ssp-black":"assets/SourceSansPro-Black.ttf",
+    "ssp-black-italic":"assets/SourceSansPro-BlackItalic.ttf",
+    "scp-regular":"assets/SourceCodePro-Regular.ttf"
+  },
+  "color_schemes": {
+    "grogu": {
+      "primary": "DDDDDD",
+      "secondary": "000000",
+      "tertiary": "73A88C",
+      "header_background": "000000",
+      "header_primary": "FFFFFF",
+      "highlight": "B2A399",
+      "love": "FFE81F"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
