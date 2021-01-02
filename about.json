@@ -1,8 +1,8 @@
 {
   "name": "discourse-grogu-theme",
-  "about_url": null,
+  "about_url": "https://meta.discourse.org/t/grogu-a-theme-inspired-by-the-mandalorian/174758",
   "license_url": "https://github.com/MeghnaAJ/discourse-grogu-theme/blob/master/LICENSE",
-  "authors": null,
+  "authors": "Meghna",
   "assets": {
     "head": "assets/galaxy-head.jpg",
     "bg": "assets/background-stars.jpg",
